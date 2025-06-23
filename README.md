@@ -15,8 +15,6 @@ This is a simple **Flappy Bird clone** written in **Java**, originally built as 
 - Object-Oriented Programming (OOP)
 - Java Timer & KeyListener for game control
 
-# How to Run
-
 # Prerequisites:
 - Java JDK installed (8 or higher)
 - IDE like IntelliJ, Eclipse, or a terminal for compilation
